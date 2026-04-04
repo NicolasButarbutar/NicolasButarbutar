@@ -2,9 +2,9 @@
 <h3 align="center">Information Systems Student | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicolasjgrace&label=Profile%20views&color=0e75b6&style=flat-square" alt="nicolasjgrace" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat-square" alt="nicolasjgrace" />
   <img src="https://img.shields.io/badge/Semester-4-blue?style=flat-square" alt="Semester" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/IT_DEL-Student-red?style=flat-square" alt="University" />
 </p>
 
 ---
@@ -85,13 +85,19 @@ Currently pursuing my degree in **Information Systems** at **Institut Teknologi 
 
 ---
 
-### 📫 Let's Connect!
+### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolasjgracebutarbutar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nicolasjgracebutarbutar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/julianncls_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Technology%20is%20best%20when%20it%20brings%20people%20together." />
+  <i>"What kind of man doesn't want to improve the world?"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
