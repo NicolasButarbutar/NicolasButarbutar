@@ -72,10 +72,6 @@ Currently pursuing my degree in **Information Systems** at **Institut Teknologi 
 ---
 
 ### 📊 GitHub Statistics (Visual Upgrade)
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasButarbutar&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Nicolas's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasButarbutar&layout=compact&theme=radical&border_radius=10" alt="Nicolas's Top Languages" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasButarbutar&theme=radical&border_radius=10" alt="Nicolas's Streak Stats" />
