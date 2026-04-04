@@ -56,14 +56,14 @@ Currently pursuing my degree in **Information Systems** at **Institut Teknologi 
 
 ---
 
-### 📊 GitHub Statistics (Fixed Links)
+### 📊 GitHub Statistics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasjgrace&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nicolas's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjgrace&layout=compact&theme=nord&hide_border=true" alt="Nicolas's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NicolasButarbutar&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nicolas's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasButarbutar&layout=compact&theme=nord&hide_border=true" alt="Nicolas's Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjgrace&theme=nord&hide_border=true" alt="Nicolas's Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasButarbutar&theme=nord&hide_border=true" alt="Nicolas's Streak Stats" />
 </p>
 
 ---
