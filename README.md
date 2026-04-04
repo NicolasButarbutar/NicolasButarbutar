@@ -15,6 +15,15 @@
 
 ---
 
+### 🏆 Achievements & Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NicolasButarbutar&theme=radical&no-bg=true&margin-w=15&column=4" alt="NicolasButarbutar" />
+  </a>
+</p>
+
+---
+
 ### 💫 About Me
 Currently pursuing my degree in **Information Systems** at **Institut Teknologi Del**. I am a tech enthusiast who loves exploring how software and networks bridge the gap between complex data and user-centric solutions.
 
@@ -42,56 +51,36 @@ Currently pursuing my degree in **Information Systems** at **Institut Teknologi 
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NicolasButarbutar&theme=radical&no-bg=true&margin-w=15" alt="NicolasButarbutar" /></a>
-</p>
-
----
-
 ### 📂 Academic Projects
 <details open>
   <summary><b>Click to expand projects</b></summary>
   <br/>
   <ul>
-    <li>
-      <b>💻 OOP Project</b>
-      <p>Implementation of Object-Oriented Programming principles using <b>Java</b>, focusing on backend logic and system robustness.</p>
-    </li>
-    <li>
-      <b>🎨 The Kit Co.</b>
-      <p>A UI/UX design project using <b>Figma</b> to create intuitive user flows and business system concepts for outdoor gear retail.</p>
-    </li>
-    <li>
-      <b>🗄️ Basis Data (Campus Data Management)</b>
-      <p>Designing database schemas, normalization, and complex <b>SQL</b> queries for academic data management.</p>
-    </li>
+    <li><b>💻 OOP Project</b>: Implementation of Java Backend logic and system robustness.</li>
+    <li><b>🎨 The Kit Co.</b>: High-fidelity UI/UX design and business concepts via <b>Figma</b>.</li>
+    <li><b>🗄️ Basis Data</b>: Database schema design and SQL optimization for campus data management.</li>
   </ul>
 </details>
 
 ---
 
-### 📊 GitHub Statistics (Visual Upgrade)
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasButarbutar&theme=radical&border_radius=10" alt="Nicolas's Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasButarbutar&theme=radical&border_radius=10" alt="Streak" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasjgracebutarbutar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nicolasjgracebutarbutar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/julianncls_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/nicolasjgracebutarbutar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nicolasjgracebutarbutar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/julianncls_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<br />
+<p align="center"><i>"What kind of man doesn't want to improve the world?"</i></p>
 
 <p align="center">
-  <i>"What kind of man doesn't want to improve the world?"</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
