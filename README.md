@@ -1,52 +1,97 @@
 <h1 align="center">Hi 👋, I'm Nicolas J Grace Butarbutar</h1>
-<h3 align="center">Information Systems Student | Aspiring System Analyst & Developer</h3>
+<h3 align="center">Information Systems Student | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="nicolas-j-grace" />
+  <img src="https://komarev.com/ghpvc/?username=nicolasjgrace&label=Profile%20views&color=0e75b6&style=flat-square" alt="nicolasjgrace" />
+  <img src="https://img.shields.io/badge/Semester-4-blue?style=flat-square" alt="Semester" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=flat-square" alt="Location" />
 </p>
 
 ---
 
 ### 💫 About Me
-Currently a 4th-semester **Information Systems** student at **Institut Teknologi Del**. I am deeply interested in how technology can solve real-world business problems, specifically through software architecture and network infrastructure.
+Currently pursuing my degree in **Information Systems** at **Institut Teknologi Del**. I am a tech enthusiast who loves exploring how software and networks bridge the gap between complex data and user-centric solutions.
 
-- 🔭 I’m currently working on **Java-based Library Systems**.
-- 🌱 I’m currently learning **Advanced Database Management & Cloud Infrastructure**.
-- 👯 I’m looking to collaborate on **Open Source Projects** or **UI/UX Case Studies**.
-- ⚡ Fun fact: I enjoy breaking down complex systems into manageable "skeleton planes".
-
----
-
-### 🛠 Tech Stack & Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Development** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJCode-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Core Concepts** | `Object-Oriented Programming` `Computer Networks (TCP/UDP)` `Operating Systems` `Linear Algebra` |
-| **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) `UX Flow` `Information Architecture` |
+- 🔭 **Current Focus:** Deepening my knowledge in System Analysis and Backend Development.
+- 🌱 **Learning:** Advanced Data Structures and Network Security.
+- 🏛 **Academic Background:** Actively engaging in Computer Networks, Operating Systems, and OOP projects.
+- 🎯 **Goal:** Building scalable applications that solve real-world problems.
 
 ---
 
-### 📂 Featured Projects
-- **[EV-Charge]** - UX/UI Design & System Flow for Electric Vehicle Charging Stations.
-- **[The Kit Co.]** - Business System Concept for Outdoor Gear Retail.
-- **[Library-Mgmt]** - Backend implementation focused on OOP principles in Java.
+### 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+      <br />C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="SQL" />
+      <br />SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ" />
+      <br />IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br />VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br />Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br />Linux
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+### 📂 Academic Projects & Case Studies
+- 🏗 **Library Management System** | *Java, OOP* - Architecting a robust backend for digital inventory.
+- ⚡ **EV Charging Station UI/UX** | *System Design* - Mapping user flows and wireframes for sustainable energy.
+- 📦 **The Kit Co.** | *Business Process* - Designing information systems for outdoor equipment retail.
+
+---
+
+### 📊 GitHub Statistics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-j-grace" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nicolas-j-grace" height="30" width="40" /></a>
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasjgracebutarbutar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nicolasjgracebutarbutar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/julianncls_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>"Building bridges between business needs and technological solutions."</i></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Technology%20is%20best%20when%20it%20brings%20people%20together." />
+</p>
